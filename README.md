@@ -1,1 +1,3 @@
-Estamos creando una aplicacion su nombre es Memeable.
+Estamos creando una aplicacion su nombre es Memeable v0.1.
+
+
